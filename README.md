@@ -1,6 +1,8 @@
 Official Coreos image on Online Labs
 ====================================
 
+[![GuardRails badge](https://badges.production.guardrails.io/moul/image-app-coreos.svg)](https://www.guardrails.io)
+
 **Work in progress**
 
 Scripts to build the official Coreos image on Online Labs
